@@ -1,5 +1,5 @@
 # WeatherApp
-An iOS application to show Current Weather and 4 days Forecast of any city. 
+An iOS application to show Current Weather and Weekly/Hourly Forecast of any city. 
 
 # Key Features
 1. Home Screen: Separate Buttons to navigate to Forecast Screen and Current Weather Screen
